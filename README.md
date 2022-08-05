@@ -41,7 +41,7 @@ expo --version
 
 ### 🔧 Instalação e execução do programa
 
-Tendo os arqivos do programa em uma pasta por fork ou download você já pode iniciá-lo
+Tendo os arquivos do programa em uma pasta por fork ou download você já pode iniciá-lo
 
 Para abrir no visual studio code você pode abrir diretamente com o VS code indicando a pasta ou executar o seguinte comando no diretório do projeto:
 ```
